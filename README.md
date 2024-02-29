@@ -16,7 +16,8 @@
 </p>
 <h3>🌟 About Me:</h3>
 <ul>
-  <li>👨‍💻 One year experience in WordPress environment, specializing in custom websites for small businesses.</li>
+  <li>⚛ Currently serving as a coding instructor and full stack developer at Coding Academy</li>
+  <li>👩🏻‍💻 One year experience in WordPress environment, specializing in custom websites for small businesses.</li>
   <li>🌐 Developed over 5 websites, enhancing client online presence and engagement.</li>
   <li>🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.</li>
   <li>🔗 Check out my final project inspired by Monday.com: <a href="https://myday-p034.onrender.com/">MyDay</a>.</li>
@@ -26,7 +27,7 @@
 <h3>🔍 Portfolio Highlights:</h3>
 <ul>
   <li><a href="https://oshi.com/">Oshi</a></li>
-  <li><a href="https://kozo-grinders.com/">Kozo Grinders</a></li>
+  <li><a href="https://naale-elite-academy.com/">NAALE Academy</a></li>
   <li><a href="https://vegan-fest.co.il/">Vegan Fest</a></li>
   <li><a href="https://mosenson.org/">Mosenson</a></li>
   <li><a href="https://anieres.org/">Anieres</a></li>
